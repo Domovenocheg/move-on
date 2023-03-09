@@ -788,7 +788,15 @@ body {
   z-index: 2;
 }
 
-/* line 96, ../Тая - GIT/move-on/sass/_section1_header.sass */
+@media (max-width: 950px) {
+  /* line 91, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  .top__btn {
+    font-size: 20px;
+    padding: 1.1rem 0rem 2rem 0rem;
+  }
+}
+
+/* line 99, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .title-1-header {
   grid-row: 2/3;
   grid-column: 2/6;
@@ -798,13 +806,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 96, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 99, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .title-1-header {
     max-width: 350px;
   }
 }
 
-/* line 104, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 107, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .header_text {
   grid-row: 3/4;
   grid-column: 2/6;
@@ -814,13 +822,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 104, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 107, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .header_text {
     max-width: 350px;
   }
 }
 
-/* line 112, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 115, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .manWoman {
   grid-row: 1/5;
   grid-column: 4/8;
@@ -831,13 +839,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 112, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 115, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .manWoman {
     display: none;
   }
 }
 
-/* line 122, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 125, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .circle_ligth-green {
   width: 59.4rem;
   height: 59.4rem;
@@ -851,13 +859,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 122, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 125, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .circle_ligth-green {
     display: none;
   }
 }
 
-/* line 134, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 137, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .circle_light-salad {
   position: absolute;
   top: 48rem;
@@ -871,7 +879,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 134, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 137, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .circle_light-salad {
     bottom: 50px;
     left: 270px;
@@ -907,39 +915,47 @@ body {
   }
 }
 
-/* line 15, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+/* line 13, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon-collection {
   display: flex;
   justify-content: space-between;
 }
 
 @media (max-width: 1300px) {
-  /* line 15, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+  /* line 13, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .icon-collection {
     justify-content: center;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 15, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+  /* line 13, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .icon-collection {
     flex-direction: column;
   }
 }
 
-/* line 24, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+/* line 22, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon-box {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-/* line 28, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+/* line 26, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon-box__text {
   font-size: 2.4rem;
 }
 
-/* line 31, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+@media (max-width: 950px) {
+  /* line 26, ../Тая - GIT/move-on/sass/_section2_icons.sass */
+  .icon-box__text {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+}
+
+/* line 32, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon {
   width: 28rem;
   height: 24.8rem;
@@ -2146,10 +2162,11 @@ body {
   /* line 34, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__title {
     margin-bottom: 20px;
+    font-size: 18px;
   }
 }
 
-/* line 45, ../Тая - GIT/move-on/sass/_section10_footer.sass */
+/* line 46, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__text {
   color: #FFFFFF;
   font-style: normal;
@@ -2159,32 +2176,33 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 45, ../Тая - GIT/move-on/sass/_section10_footer.sass */
+  /* line 46, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__text {
     margin-right: 8rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 45, ../Тая - GIT/move-on/sass/_section10_footer.sass */
+  /* line 46, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__text {
     margin-bottom: 10px;
+    font-size: 16px;
   }
 }
 
-/* line 55, ../Тая - GIT/move-on/sass/_section10_footer.sass */
+/* line 57, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__icon {
   margin-right: 1.6rem;
 }
 
 @media (max-width: 950px) {
-  /* line 55, ../Тая - GIT/move-on/sass/_section10_footer.sass */
+  /* line 57, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__icon {
     margin-bottom: 10px;
   }
 }
 
-/* line 59, ../Тая - GIT/move-on/sass/_section10_footer.sass */
+/* line 61, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__app {
   margin-right: 2.1rem;
 }
