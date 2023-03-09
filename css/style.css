@@ -2247,25 +2247,54 @@ body {
   position: absolute;
   width: 655px;
   height: 798px;
-  left: 632px;
+  left: 33%;
   top: 39px;
   background: #FFFFFF;
   border-radius: 10px;
   display: flex;
   justify-content: center;
   padding: 80px 100px 100px 100px;
+  z-index: 6;
 }
 
-/* line 13, ../Тая - GIT/move-on/sass/_modal_form.sass */
+/* line 14, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .modal_text {
   font-size: 32px;
   font-weight: 800;
   letter-spacing: -0.408px;
 }
 
-/* line 18, ../Тая - GIT/move-on/sass/_modal_form.sass */
+/* line 19, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .hidden {
   display: none;
+}
+
+/* line 22, ../Тая - GIT/move-on/sass/_modal_form.sass */
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2000%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 5;
+}
+
+/* line 33, ../Тая - GIT/move-on/sass/_modal_form.sass */
+.close-modal {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  font-size: 20px;
+  color: #414141;
+  cursor: pointer;
+  border: none;
+  background: #F4F4F4;
+  width: 29px;
+  height: 29px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=style.css.map */

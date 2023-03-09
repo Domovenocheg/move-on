@@ -31,7 +31,10 @@
           менеджмента организации <br />
           спортивных событий
         </p>
-        <a href="#" class="btn btn__yellow_fill section1_header__yellow_btn"
+        <a
+          href="#"
+          id="modal_btn"
+          class="btn btn__yellow_fill section1_header__yellow_btn"
           >Заказать демо</a
         >
         <a href="#" class="btn btn__yellow_border section1_header__border_btn"
@@ -431,6 +434,7 @@
         <p class="text text-align-center modal_text">
           Запишитесь на консультацию менеджера
         </p>
+        <button class="close-modal">x</button>
         <label for="name" class="label section8_form__wrapper__form__label-text"
           >Имя*</label
         >
@@ -474,5 +478,7 @@
       </form>
     </div>
     <div class="modal_answer"></div>
+    <div class="overlay hidden"></div>
+    <script src="script.js"></script>
   </body>
 </html>
