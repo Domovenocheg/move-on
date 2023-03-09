@@ -1,0 +1,35 @@
+.section2_icons
+    grid-row: 2 / 3
+    grid-column: 2 / 3
+    padding-left: 5rem
+    margin-bottom: 18rem
+    @include respond(low-screen)
+        padding-left: 0rem
+        margin-bottom: 10rem
+    &__title-1
+        margin-bottom: 13.8rem
+        @include respond(low-screen)
+            margin-bottom: 6rem
+    
+
+.icon-collection
+    display: flex
+    justify-content: space-between
+    @include respond(low-screen)
+        justify-content: center
+    @include respond(phone)
+        flex-direction: column
+
+
+.icon-box
+    display: flex
+    flex-direction: column
+    align-items: center
+    &__text
+        font-size: 2.4rem
+
+.icon
+    width: 28rem
+    height: 24.8rem
+
+

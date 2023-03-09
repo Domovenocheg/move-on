@@ -1,0 +1,20 @@
+.section3_video
+    grid-row: 3 / 4
+    grid-column: 2 / 3
+    padding-left: 5rem
+    margin-bottom: 18rem
+    display: grid
+    @include respond(low-screen)
+        margin-bottom: 10rem
+        padding-left: 0rem
+    @include respond(phone)
+            max-width: 370px
+    &__title-1
+        margin-bottom: 8rem
+    &__video
+        margin: 0 auto
+        border-radius: 10px
+        @include respond(phone)
+            max-height: 200px
+            max-width: 350px
+        

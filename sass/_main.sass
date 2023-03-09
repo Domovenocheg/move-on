@@ -1,0 +1,48 @@
+* 
+  box-sizing: border-box
+
+html
+  font-size: 62.5%
+  margin: 0 auto
+  @include respond(tab-port)
+    font-size: 55.5%
+  @include respond(tab-port1000)
+    font-size: 51.5%
+  @include respond(phone)
+    font-size: 46.25%
+
+
+body  
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400
+  color: $color-dark-gray
+  font-size: 1.6rem
+  background-color: $color-white-background
+ 
+ 
+  
+.container
+  height: 88.7rem
+  max-width: 192rem 
+  display: grid
+  margin: 0 auto
+  grid-template-columns: 18% minmax(min-content, 125rem) 18%
+  grid-template-rows: repeat(10, min-content)
+  @include respond(mid-screen)
+    grid-template-columns: 9% minmax(min-content, 125rem) 15%
+  @include respond(low-screen)
+    grid-template-columns: 4% minmax(min-content, 125rem) 10%
+  @include respond(low-screen)
+    grid-template-columns: 2% minmax(min-content, 125rem) 5%
+  @include respond(tab-port1000)
+    grid-template-columns: 1fr minmax(min-content, 125rem) 1fr
+  @include respond(phone)
+    grid-template-columns: 1% 375px 1%
+
+
+/* 1
+
+  grid-template-rows: 80vh min-content 40vw repeat(3, min-content)
+  grid-template-columns: [sidebar-start] 8rem [sidebar-end full-start] minmax(6rem, 1fr)  repeat(8, [col-start] minmax(min-content, 14rem) [col-end]) minmax(6rem, 1fr) [full-end] 
+
+ 2 */

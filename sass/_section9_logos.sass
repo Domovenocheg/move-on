@@ -1,0 +1,33 @@
+.section9_logos
+    grid-row: 9 / 10
+    grid-column: 2 / 3
+    margin-bottom: 18rem
+    display: grid
+    grid-template-columns: repeat(5, 1fr)
+    grid-template-rows: repeat(3, 1fr)
+    gap: 1rem
+    @include respond(low-screen)
+        max-width: 1200px
+        padding-left: 3rem
+        margin: 0px 50px 10rem 50px
+        gap: 0.5rem
+    @include respond(phone)
+        display: grid
+        padding-left: 0rem
+        grid-template-columns: 1fr 1fr
+        grid-template-rows: min-content
+        gap: 16px
+        justify-items: center
+        
+    &__title
+        grid-column: 1/6
+        margin-bottom: 9rem
+        @include respond(low-screen)
+            margin-bottom: 7rem
+        @include respond(phone)
+            grid-column: 1/3
+            font-size: 32px
+.logo-phone-size
+    margin-bottom: 40px
+    
+    
