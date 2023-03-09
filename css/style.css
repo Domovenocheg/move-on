@@ -698,10 +698,11 @@ body {
     z-index: 2;
     grid-row: 5/6;
     grid-column: 2/3;
+    margin-right: 0rem;
   }
 }
 
-/* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top {
   grid-row: 1 / 2;
   grid-column: 2 / 8;
@@ -712,34 +713,35 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
 @media (max-width: 1200px) {
-  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     display: flex;
+    max-width: 350px;
   }
 }
 
-/* line 65, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 67, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__logo {
   width: 20rem;
   height: 8rem;
@@ -750,13 +752,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 65, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 67, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top__logo {
     margin-right: 100px;
   }
 }
 
-/* line 75, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 78, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__app {
   grid-row: 1/2;
   grid-column: 5/6;
@@ -768,25 +770,25 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 75, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 78, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top__app {
     display: none;
   }
 }
 
-/* line 85, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 88, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__app:hover {
   color: #C7ED30;
 }
 
-/* line 88, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 91, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__btn {
   grid-row: 1/2;
   grid-column: 6/7;
   z-index: 2;
 }
 
-/* line 93, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 96, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .title-1-header {
   grid-row: 2/3;
   grid-column: 2/6;
@@ -795,7 +797,14 @@ body {
   z-index: 2;
 }
 
-/* line 99, ../Тая - GIT/move-on/sass/_section1_header.sass */
+@media (max-width: 950px) {
+  /* line 96, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  .title-1-header {
+    max-width: 350px;
+  }
+}
+
+/* line 104, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .header_text {
   grid-row: 3/4;
   grid-column: 2/6;
@@ -804,7 +813,14 @@ body {
   z-index: 2;
 }
 
-/* line 105, ../Тая - GIT/move-on/sass/_section1_header.sass */
+@media (max-width: 950px) {
+  /* line 104, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  .header_text {
+    max-width: 350px;
+  }
+}
+
+/* line 112, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .manWoman {
   grid-row: 1/5;
   grid-column: 4/8;
@@ -815,13 +831,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 105, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 112, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .manWoman {
     display: none;
   }
 }
 
-/* line 115, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 122, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .circle_ligth-green {
   width: 59.4rem;
   height: 59.4rem;
@@ -835,13 +851,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 115, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 122, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .circle_ligth-green {
     display: none;
   }
 }
 
-/* line 127, ../Тая - GIT/move-on/sass/_section1_header.sass */
+/* line 134, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .circle_light-salad {
   position: absolute;
   top: 48rem;
@@ -855,7 +871,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 127, ../Тая - GIT/move-on/sass/_section1_header.sass */
+  /* line 134, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .circle_light-salad {
     bottom: 50px;
     left: 270px;
@@ -1519,11 +1535,14 @@ body {
 @media (max-width: 950px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app {
-    margin-bottom: 53rem;
+    margin-bottom: 14rem;
+    width: 375px;
+    height: 800px;
+    overflow: hidden;
   }
 }
 
-/* line 10, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 13, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper {
   padding-left: 5rem;
   position: relative;
@@ -1532,7 +1551,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 10, ../Тая - GIT/move-on/sass/_section6_app.sass */
+  /* line 13, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper {
     max-width: 1060px;
     margin: 0 auto;
@@ -1540,24 +1559,24 @@ body {
   }
 }
 
-/* line 19, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 22, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__title {
   margin-bottom: 4.8rem;
 }
 
-/* line 21, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 24, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__text {
   margin-bottom: 4.8rem;
 }
 
-/* line 23, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 26, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__img {
   position: absolute;
   right: 0rem;
   top: 0rem;
 }
 
-/* line 27, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 30, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__link {
   display: inline-block;
   margin-bottom: 2rem;
@@ -1577,13 +1596,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 27, ../Тая - GIT/move-on/sass/_section6_app.sass */
+  /* line 30, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__link {
     display: none;
   }
 }
 
-/* line 45, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 48, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__link:hover {
   transform: scale(1.15) translateX(2.5rem);
   background: linear-gradient(90.6deg, #19b63b 0%, #00B19D 99.25%);
@@ -1594,7 +1613,7 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 53, ../Тая - GIT/move-on/sass/_section6_app.sass */
+  /* line 56, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     position: absolute;
     right: 4rem;
@@ -1602,14 +1621,14 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 53, ../Тая - GIT/move-on/sass/_section6_app.sass */
+  /* line 56, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     right: -5rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 53, ../Тая - GIT/move-on/sass/_section6_app.sass */
+  /* line 56, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     right: -70px;
     top: 423px;
@@ -1618,7 +1637,7 @@ body {
   }
 }
 
-/* line 66, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 69, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .app-link {
   background-image: linear-gradient(90.6deg, #096A92 0%, #00B19D 99.25%);
   background-repeat: repeat-x;
@@ -1626,13 +1645,13 @@ body {
   background-size: 100% 2px;
 }
 
-/* line 72, ../Тая - GIT/move-on/sass/_section6_app.sass */
+/* line 75, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .phone-link {
   display: none;
 }
 
 @media (max-width: 950px) {
-  /* line 72, ../Тая - GIT/move-on/sass/_section6_app.sass */
+  /* line 75, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .phone-link {
     display: inline-block;
     font-size: 24px;

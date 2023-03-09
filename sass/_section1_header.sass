@@ -45,6 +45,7 @@
             z-index: 2
             grid-row: 5/6
             grid-column: 2/3
+            margin-right: 0rem
 
 
 .top 
@@ -62,6 +63,7 @@
         grid-column: 2 / 7
     @include respond(phone)
         display: flex
+        max-width: 350px 
     &__logo
         width: 20rem
         height: 8rem
@@ -71,6 +73,7 @@
         z-index: 2
         @include respond(phone)
             margin-right: 100px
+            
 
     &__app
         grid-row: 1/2
@@ -96,12 +99,16 @@
     color: $color-white
     margin-bottom: 5rem
     z-index: 2
+    @include respond(phone)
+        max-width: 350px 
 .header_text
     grid-row: 3/4
     grid-column: 2/6
     color: $color-white
     margin-bottom: 10rem
     z-index: 2
+    @include respond(phone)
+        max-width: 350px 
 .manWoman
     grid-row: 1/5
     grid-column: 4/8
