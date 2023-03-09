@@ -607,7 +607,7 @@ body {
 @media (max-width: 950px) {
   /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
-    grid-template-columns: 1% 375px 1%;
+    grid-template-columns: 1% 100vw 1%;
   }
 }
 
@@ -658,7 +658,7 @@ body {
 @media (max-width: 950px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
-    grid-template-columns: 4% 375px 4%;
+    grid-template-columns: 4% 100vw 4%;
     grid-template-rows: repeat(5, min-content);
   }
 }
