@@ -550,14 +550,14 @@ html {
   margin: 0 auto;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 4, ../Тая - GIT/move-on/sass/_main.sass */
   html {
     font-size: 55.5%;
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1500px) {
   /* line 4, ../Тая - GIT/move-on/sass/_main.sass */
   html {
     font-size: 51.5%;
@@ -597,21 +597,21 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 4% minmax(min-content, 125rem) 10%;
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 2% minmax(min-content, 125rem) 5%;
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1500px) {
   /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 1fr minmax(min-content, 125rem) 1fr;
@@ -654,7 +654,7 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
     grid-template-columns: 4% repeat(6, 1fr) 10%;
@@ -662,7 +662,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
     grid-template-columns: 4% repeat(6, 1fr) 5%;
@@ -733,14 +733,14 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 51, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
@@ -910,7 +910,7 @@ body {
   margin-bottom: 18rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .section2_icons {
     padding-left: 0rem;
@@ -923,7 +923,7 @@ body {
   margin-bottom: 13.8rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 9, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .section2_icons__title-1 {
     margin-bottom: 6rem;
@@ -936,7 +936,7 @@ body {
   justify-content: space-between;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 13, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .icon-collection {
     justify-content: center;
@@ -985,7 +985,7 @@ body {
   display: grid;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section3_video.sass */
   .section3_video {
     margin-bottom: 10rem;
@@ -1030,7 +1030,7 @@ body {
   grid-template-columns: 1fr 1fr;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .section4_cards {
     margin-bottom: 10rem;
@@ -1038,7 +1038,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .section4_cards {
     margin: 0 auto;
@@ -1074,10 +1074,10 @@ body {
   height: 30rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 24, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box {
-    max-width: 472px;
+    width: 472px;
   }
 }
 
@@ -1123,7 +1123,7 @@ body {
   letter-spacing: 0.01px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 53, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__1__text {
     width: 236px;
@@ -1204,7 +1204,7 @@ body {
   letter-spacing: 0.01px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 97, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__3__text {
     width: 229px;
@@ -1248,7 +1248,7 @@ body {
   letter-spacing: 0.01px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 119, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__4__text {
     width: 277px;
@@ -1280,7 +1280,7 @@ body {
   position: relative;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 131, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5 {
     width: 960px;
@@ -1303,7 +1303,7 @@ body {
   grid-column: 1/3;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 146, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__title {
     margin-bottom: 3rem;
@@ -1317,7 +1317,7 @@ body {
   bottom: 1.6rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 151, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__icon_5 {
     right: 71px;
@@ -1350,7 +1350,7 @@ body {
   grid-column: 2/3;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 168, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__text2 {
     margin-bottom: 2rem;
@@ -1363,7 +1363,7 @@ body {
   grid-column: 1/2;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 173, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__text3 {
     margin-bottom: 2rem;
@@ -1402,7 +1402,7 @@ body {
   padding-left: 5rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult {
     padding-left: 0rem;
@@ -1423,7 +1423,7 @@ body {
   overflow: hidden;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 7, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper {
     margin-bottom: 10rem;
@@ -1431,7 +1431,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 7, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper {
     max-width: 966px;
@@ -1465,7 +1465,7 @@ body {
   position: relative;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 34, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__text {
     width: 500px;
@@ -1557,7 +1557,7 @@ body {
   margin-bottom: 18rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app {
     margin-bottom: 25rem;
@@ -1582,7 +1582,7 @@ body {
   height: 66.5rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 13, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper {
     max-width: 1060px;
@@ -1652,7 +1652,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 56, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     right: -5rem;
@@ -1712,7 +1712,7 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority {
     grid-template-columns: 4% minmax(min-content, 125rem) 10%;
@@ -1720,7 +1720,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority {
     padding-left: 3rem;
@@ -1751,7 +1751,7 @@ body {
   margin-bottom: 4.3rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 29, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__text {
     word-wrap: break-word;
@@ -1766,7 +1766,7 @@ body {
   z-index: 2;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 35, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__woman {
     position: absolute;
@@ -1776,7 +1776,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 35, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__woman {
     right: 0rem;
@@ -1791,7 +1791,7 @@ body {
   z-index: 1;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 47, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__vector {
     height: 52.4rem;
@@ -1839,7 +1839,7 @@ body {
   margin-bottom: 18rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form {
     margin-bottom: 10rem;
@@ -1848,7 +1848,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form {
     max-width: 1200px;
@@ -1871,7 +1871,7 @@ body {
   grid-template-rows: 1fr 1fr;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1500px) {
   /* line 15, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper {
     padding-left: 4rem;
@@ -1891,7 +1891,7 @@ body {
   grid-row: 1/2;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 24, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__title {
     margin-right: 5rem;
@@ -1938,14 +1938,14 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 40, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__form__btn {
     width: 40.5rem;
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1500px) {
   /* line 40, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__form__btn {
     width: 38.5rem;
@@ -2009,14 +2009,14 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 66, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .input {
     width: 40.5rem;
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1500px) {
   /* line 66, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .input {
     width: 38.5rem;
@@ -2048,7 +2048,7 @@ body {
   gap: 1rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section9_logos.sass */
   .section9_logos {
     max-width: 1200px;
@@ -2076,7 +2076,7 @@ body {
   margin-bottom: 9rem;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 22, ../Тая - GIT/move-on/sass/_section9_logos.sass */
   .section9_logos__title {
     margin-bottom: 7rem;
@@ -2113,28 +2113,28 @@ body {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 4% minmax(min-content, 125rem) 10%;
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 2% minmax(min-content, 125rem) 5%;
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 2% minmax(min-content, 125rem) 1px;
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 950px) {
   /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     height: 561px;
@@ -2150,14 +2150,14 @@ body {
   padding-left: 1.4rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 18, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__wrapper {
     justify-content: space-evenly;
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 18, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__wrapper {
     max-width: 1200px;
@@ -2186,7 +2186,7 @@ body {
   margin-bottom: 2.1rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 35, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__title {
     margin-right: 14rem;
@@ -2210,7 +2210,7 @@ body {
   line-height: 155%;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
   /* line 47, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__text {
     margin-right: 8rem;
@@ -2244,7 +2244,7 @@ body {
 
 /* line 1, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .modal_form {
-  position: absolute;
+  position: fixed;
   width: 655px;
   height: 798px;
   left: 33%;
@@ -2257,19 +2257,54 @@ body {
   z-index: 6;
 }
 
-/* line 14, ../Тая - GIT/move-on/sass/_modal_form.sass */
+@media (max-width: 1500px) {
+  /* line 1, ../Тая - GIT/move-on/sass/_modal_form.sass */
+  .modal_form {
+    left: 19%;
+    top: 39px;
+    width: 555px;
+    height: 620px;
+  }
+}
+
+@media (max-width: 950px) {
+  /* line 1, ../Тая - GIT/move-on/sass/_modal_form.sass */
+  .modal_form {
+    width: 350px;
+    height: 620px;
+    left: 4%;
+  }
+}
+
+/* line 22, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .modal_text {
   font-size: 32px;
   font-weight: 800;
   letter-spacing: -0.408px;
 }
 
-/* line 19, ../Тая - GIT/move-on/sass/_modal_form.sass */
+@media (max-width: 1500px) {
+  /* line 22, ../Тая - GIT/move-on/sass/_modal_form.sass */
+  .modal_text {
+    width: 400px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 950px) {
+  /* line 22, ../Тая - GIT/move-on/sass/_modal_form.sass */
+  .modal_text {
+    width: 330px;
+    font-size: 24px;
+  }
+}
+
+/* line 33, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .hidden {
   display: none;
 }
 
-/* line 22, ../Тая - GIT/move-on/sass/_modal_form.sass */
+/* line 36, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .overlay {
   position: absolute;
   top: 0;
@@ -2280,7 +2315,7 @@ body {
   z-index: 5;
 }
 
-/* line 33, ../Тая - GIT/move-on/sass/_modal_form.sass */
+/* line 47, ../Тая - GIT/move-on/sass/_modal_form.sass */
 .close-modal {
   position: absolute;
   top: 24px;
@@ -2295,6 +2330,20 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 1500px) {
+  /* line 61, ../Тая - GIT/move-on/sass/_modal_form.sass */
+  .modal_input {
+    width: 370px;
+  }
+}
+
+@media (max-width: 950px) {
+  /* line 61, ../Тая - GIT/move-on/sass/_modal_form.sass */
+  .modal_input {
+    width: 320px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

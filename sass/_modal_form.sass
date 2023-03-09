@@ -1,5 +1,5 @@
 .modal_form
-    position: absolute
+    position: fixed
     width: 655px
     height: 798px
     left: 33%
@@ -10,11 +10,25 @@
     justify-content: center
     padding: 80px 100px 100px 100px
     z-index: 6
-
+    @include respond(tab-port1000)
+        left: 19%
+        top: 39px
+        width: 555px
+        height: 620px
+    @include respond(phone)
+        width: 350px
+        height: 620px
+        left: 4%
 .modal_text
     font-size: 32px
     font-weight: 800
     letter-spacing: -0.408px
+    @include respond(tab-port1000)
+        width: 400px
+        margin-bottom: 30px
+    @include respond(phone)
+        width: 330px
+        font-size: 24px
 
 .hidden
     display: none
@@ -44,3 +58,8 @@
     display: flex
     justify-content: center
     align-items: center
+.modal_input
+    @include respond(tab-port1000)
+        width: 370px
+    @include respond(phone)
+        width: 320px
