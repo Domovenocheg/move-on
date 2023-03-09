@@ -6,7 +6,7 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-/* line 11, ../Тая/sass/_normalizes.scss */
+/* line 11, ../Тая - GIT/move-on/sass/_normalizes.scss */
 html {
   line-height: 1.15;
   /* 1 */
@@ -19,7 +19,7 @@ html {
 /**
  * Remove the margin in all browsers.
  */
-/* line 23, ../Тая/sass/_normalizes.scss */
+/* line 23, ../Тая - GIT/move-on/sass/_normalizes.scss */
 body {
   margin: 0;
 }
@@ -27,7 +27,7 @@ body {
 /**
  * Render the `main` element consistently in IE.
  */
-/* line 31, ../Тая/sass/_normalizes.scss */
+/* line 31, ../Тая - GIT/move-on/sass/_normalizes.scss */
 main {
   display: block;
 }
@@ -36,7 +36,7 @@ main {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-/* line 40, ../Тая/sass/_normalizes.scss */
+/* line 40, ../Тая - GIT/move-on/sass/_normalizes.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -48,7 +48,7 @@ h1 {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 53, ../Тая/sass/_normalizes.scss */
+/* line 53, ../Тая - GIT/move-on/sass/_normalizes.scss */
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -62,7 +62,7 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 64, ../Тая/sass/_normalizes.scss */
+/* line 64, ../Тая - GIT/move-on/sass/_normalizes.scss */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -75,7 +75,7 @@ pre {
 /**
  * Remove the gray background on active links in IE 10.
  */
-/* line 76, ../Тая/sass/_normalizes.scss */
+/* line 76, ../Тая - GIT/move-on/sass/_normalizes.scss */
 a {
   background-color: transparent;
 }
@@ -84,7 +84,7 @@ a {
  * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 85, ../Тая/sass/_normalizes.scss */
+/* line 85, ../Тая - GIT/move-on/sass/_normalizes.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -97,7 +97,7 @@ abbr[title] {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 95, ../Тая/sass/_normalizes.scss */
+/* line 95, ../Тая - GIT/move-on/sass/_normalizes.scss */
 b,
 strong {
   font-weight: bolder;
@@ -107,7 +107,7 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 105, ../Тая/sass/_normalizes.scss */
+/* line 105, ../Тая - GIT/move-on/sass/_normalizes.scss */
 code,
 kbd,
 samp {
@@ -120,7 +120,7 @@ samp {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 116, ../Тая/sass/_normalizes.scss */
+/* line 116, ../Тая - GIT/move-on/sass/_normalizes.scss */
 small {
   font-size: 80%;
 }
@@ -129,7 +129,7 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 125, ../Тая/sass/_normalizes.scss */
+/* line 125, ../Тая - GIT/move-on/sass/_normalizes.scss */
 sub,
 sup {
   font-size: 75%;
@@ -138,12 +138,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 133, ../Тая/sass/_normalizes.scss */
+/* line 133, ../Тая - GIT/move-on/sass/_normalizes.scss */
 sub {
   bottom: -0.25em;
 }
 
-/* line 137, ../Тая/sass/_normalizes.scss */
+/* line 137, ../Тая - GIT/move-on/sass/_normalizes.scss */
 sup {
   top: -0.5em;
 }
@@ -153,7 +153,7 @@ sup {
 /**
  * Remove the border on images inside links in IE 10.
  */
-/* line 148, ../Тая/sass/_normalizes.scss */
+/* line 148, ../Тая - GIT/move-on/sass/_normalizes.scss */
 img {
   border-style: none;
 }
@@ -164,7 +164,7 @@ img {
  * 1. Change the font styles in all browsers.
  * 2. Remove the margin in Firefox and Safari.
  */
-/* line 160, ../Тая/sass/_normalizes.scss */
+/* line 160, ../Тая - GIT/move-on/sass/_normalizes.scss */
 button,
 input,
 optgroup,
@@ -184,7 +184,7 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 176, ../Тая/sass/_normalizes.scss */
+/* line 176, ../Тая - GIT/move-on/sass/_normalizes.scss */
 button,
 input {
   /* 1 */
@@ -195,7 +195,7 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 186, ../Тая/sass/_normalizes.scss */
+/* line 186, ../Тая - GIT/move-on/sass/_normalizes.scss */
 button,
 select {
   /* 1 */
@@ -205,7 +205,7 @@ select {
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 195, ../Тая/sass/_normalizes.scss */
+/* line 195, ../Тая - GIT/move-on/sass/_normalizes.scss */
 button,
 [type="button"],
 [type="reset"],
@@ -216,7 +216,7 @@ button,
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 206, ../Тая/sass/_normalizes.scss */
+/* line 206, ../Тая - GIT/move-on/sass/_normalizes.scss */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -228,7 +228,7 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 218, ../Тая/sass/_normalizes.scss */
+/* line 218, ../Тая - GIT/move-on/sass/_normalizes.scss */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -239,7 +239,7 @@ button:-moz-focusring,
 /**
  * Correct the padding in Firefox.
  */
-/* line 229, ../Тая/sass/_normalizes.scss */
+/* line 229, ../Тая - GIT/move-on/sass/_normalizes.scss */
 fieldset {
   padding: 0.35em 0.75em 0.625em;
 }
@@ -250,7 +250,7 @@ fieldset {
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 240, ../Тая/sass/_normalizes.scss */
+/* line 240, ../Тая - GIT/move-on/sass/_normalizes.scss */
 legend {
   box-sizing: border-box;
   /* 1 */
@@ -269,7 +269,7 @@ legend {
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 253, ../Тая/sass/_normalizes.scss */
+/* line 253, ../Тая - GIT/move-on/sass/_normalizes.scss */
 progress {
   vertical-align: baseline;
 }
@@ -277,7 +277,7 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE 10+.
  */
-/* line 261, ../Тая/sass/_normalizes.scss */
+/* line 261, ../Тая - GIT/move-on/sass/_normalizes.scss */
 textarea {
   overflow: auto;
 }
@@ -286,7 +286,7 @@ textarea {
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.
  */
-/* line 270, ../Тая/sass/_normalizes.scss */
+/* line 270, ../Тая - GIT/move-on/sass/_normalizes.scss */
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box;
@@ -298,7 +298,7 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 280, ../Тая/sass/_normalizes.scss */
+/* line 280, ../Тая - GIT/move-on/sass/_normalizes.scss */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -308,7 +308,7 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 290, ../Тая/sass/_normalizes.scss */
+/* line 290, ../Тая - GIT/move-on/sass/_normalizes.scss */
 [type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -319,7 +319,7 @@ textarea {
 /**
  * Remove the inner padding in Chrome and Safari on macOS.
  */
-/* line 299, ../Тая/sass/_normalizes.scss */
+/* line 299, ../Тая - GIT/move-on/sass/_normalizes.scss */
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
@@ -328,7 +328,7 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 308, ../Тая/sass/_normalizes.scss */
+/* line 308, ../Тая - GIT/move-on/sass/_normalizes.scss */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -341,7 +341,7 @@ textarea {
 /*
  * Add the correct display in Edge, IE 10+, and Firefox.
  */
-/* line 320, ../Тая/sass/_normalizes.scss */
+/* line 320, ../Тая - GIT/move-on/sass/_normalizes.scss */
 details {
   display: block;
 }
@@ -349,7 +349,7 @@ details {
 /*
  * Add the correct display in all browsers.
  */
-/* line 328, ../Тая/sass/_normalizes.scss */
+/* line 328, ../Тая - GIT/move-on/sass/_normalizes.scss */
 summary {
   display: list-item;
 }
@@ -359,7 +359,7 @@ summary {
 /**
  * Add the correct display in IE 10+.
  */
-/* line 339, ../Тая/sass/_normalizes.scss */
+/* line 339, ../Тая - GIT/move-on/sass/_normalizes.scss */
 template {
   display: none;
 }
@@ -367,12 +367,12 @@ template {
 /**
  * Add the correct display in IE 10.
  */
-/* line 347, ../Тая/sass/_normalizes.scss */
+/* line 347, ../Тая - GIT/move-on/sass/_normalizes.scss */
 [hidden] {
   display: none;
 }
 
-/* line 1, ../Тая/sass/_resets.scss */
+/* line 1, ../Тая - GIT/move-on/sass/_resets.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -394,51 +394,51 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 21, ../Тая/sass/_resets.scss */
+/* line 21, ../Тая - GIT/move-on/sass/_resets.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-/* line 25, ../Тая/sass/_resets.scss */
+/* line 25, ../Тая - GIT/move-on/sass/_resets.scss */
 html {
   height: 100%;
 }
 
-/* line 28, ../Тая/sass/_resets.scss */
+/* line 28, ../Тая - GIT/move-on/sass/_resets.scss */
 body {
   line-height: 1;
 }
 
-/* line 31, ../Тая/sass/_resets.scss */
+/* line 31, ../Тая - GIT/move-on/sass/_resets.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 34, ../Тая/sass/_resets.scss */
+/* line 34, ../Тая - GIT/move-on/sass/_resets.scss */
 blockquote, q {
   quotes: none;
 }
 
-/* line 37, ../Тая/sass/_resets.scss */
+/* line 37, ../Тая - GIT/move-on/sass/_resets.scss */
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none;
 }
 
-/* line 42, ../Тая/sass/_resets.scss */
+/* line 42, ../Тая - GIT/move-on/sass/_resets.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 9, ../Тая/sass/_variables.sass */
+/* line 9, ../Тая - GIT/move-on/sass/_variables.sass */
 .text-align-center {
   text-align: center;
 }
 
-/* line 1, ../Тая/sass/_typography.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_typography.sass */
 .title-1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
@@ -446,7 +446,7 @@ table {
   line-height: 98.5%;
 }
 
-/* line 7, ../Тая/sass/_typography.sass */
+/* line 7, ../Тая - GIT/move-on/sass/_typography.sass */
 .text {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -473,7 +473,7 @@ table {
     top: 46.8rem
     left: 5rem
     width: 31.3rem */
-/* line 1, ../Тая/sass/_buttons.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_buttons.sass */
 .btn {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -485,12 +485,12 @@ table {
   height: 6.4rem;
 }
 
-/* line 10, ../Тая/sass/_buttons.sass */
+/* line 10, ../Тая - GIT/move-on/sass/_buttons.sass */
 .app {
   color: #FFFFFF;
 }
 
-/* line 13, ../Тая/sass/_buttons.sass */
+/* line 13, ../Тая - GIT/move-on/sass/_buttons.sass */
 .btn__yellow_border {
   color: #C7ED30;
   border: 2px solid #C7ED30;
@@ -499,18 +499,18 @@ table {
   padding: 1.6rem 0rem 2rem 0rem;
 }
 
-/* line 19, ../Тая/sass/_buttons.sass */
+/* line 19, ../Тая - GIT/move-on/sass/_buttons.sass */
 .btn__yellow_border:hover {
   background-color: #C7ED30;
   color: #414141;
 }
 
-/* line 22, ../Тая/sass/_buttons.sass */
+/* line 22, ../Тая - GIT/move-on/sass/_buttons.sass */
 .top__btn {
   width: 12rem;
 }
 
-/* line 25, ../Тая/sass/_buttons.sass */
+/* line 25, ../Тая - GIT/move-on/sass/_buttons.sass */
 .btn__yellow_fill {
   color: #333333;
   border: 1px solid #C7ED30;
@@ -520,44 +520,44 @@ table {
   padding: 1.6rem 0rem 2rem 0rem;
 }
 
-/* line 32, ../Тая/sass/_buttons.sass */
+/* line 32, ../Тая - GIT/move-on/sass/_buttons.sass */
 .btn__yellow_fill:hover {
   background-color: #bbff00;
 }
 
-/* line 1, ../Тая/sass/_main.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_main.sass */
 * {
   box-sizing: border-box;
 }
 
-/* line 4, ../Тая/sass/_main.sass */
+/* line 4, ../Тая - GIT/move-on/sass/_main.sass */
 html {
   font-size: 62.5%;
   margin: 0 auto;
 }
 
 @media (max-width: 1200px) {
-  /* line 4, ../Тая/sass/_main.sass */
+  /* line 4, ../Тая - GIT/move-on/sass/_main.sass */
   html {
     font-size: 55.5%;
   }
 }
 
 @media (max-width: 1000px) {
-  /* line 4, ../Тая/sass/_main.sass */
+  /* line 4, ../Тая - GIT/move-on/sass/_main.sass */
   html {
     font-size: 51.5%;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 4, ../Тая/sass/_main.sass */
+  /* line 4, ../Тая - GIT/move-on/sass/_main.sass */
   html {
     font-size: 46.25%;
   }
 }
 
-/* line 15, ../Тая/sass/_main.sass */
+/* line 15, ../Тая - GIT/move-on/sass/_main.sass */
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -566,7 +566,7 @@ body {
   background-color: #F5F5F5;
 }
 
-/* line 24, ../Тая/sass/_main.sass */
+/* line 24, ../Тая - GIT/move-on/sass/_main.sass */
 .container {
   height: 88.7rem;
   max-width: 192rem;
@@ -577,35 +577,35 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 24, ../Тая/sass/_main.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 9% minmax(min-content, 125rem) 15%;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 24, ../Тая/sass/_main.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 4% minmax(min-content, 125rem) 10%;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 24, ../Тая/sass/_main.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 2% minmax(min-content, 125rem) 5%;
   }
 }
 
 @media (max-width: 1000px) {
-  /* line 24, ../Тая/sass/_main.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 1fr minmax(min-content, 125rem) 1fr;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 24, ../Тая/sass/_main.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_main.sass */
   .container {
     grid-template-columns: 1% 375px 1%;
   }
@@ -617,7 +617,7 @@ body {
   grid-template-columns: [sidebar-start] 8rem [sidebar-end full-start] minmax(6rem, 1fr)  repeat(8, [col-start] minmax(min-content, 14rem) [col-end]) minmax(6rem, 1fr) [full-end]
 
  2 */
-/* line 1, ../Тая/sass/_section1_header.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .section1_header {
   background-color: #113C54;
   background-image: url("../img/filter.png");
@@ -634,14 +634,14 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 1, ../Тая/sass/_section1_header.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
     grid-template-columns: 9% repeat(6, 1fr) 15%;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section1_header.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
     grid-template-columns: 4% repeat(6, 1fr) 10%;
     margin-bottom: 10rem;
@@ -649,21 +649,21 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section1_header.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
     grid-template-columns: 4% repeat(6, 1fr) 5%;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section1_header.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header {
-    grid-template-columns: 4% 360px 4%;
+    grid-template-columns: 4% 375px 4%;
     grid-template-rows: repeat(5, min-content);
   }
 }
 
-/* line 25, ../Тая/sass/_section1_header.sass */
+/* line 25, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .section1_header__yellow_btn {
   grid-row: 4/5;
   grid-column: 2/3;
@@ -673,7 +673,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 25, ../Тая/sass/_section1_header.sass */
+  /* line 25, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header__yellow_btn {
     margin-bottom: 8px;
     width: 344px;
@@ -681,7 +681,7 @@ body {
   }
 }
 
-/* line 36, ../Тая/sass/_section1_header.sass */
+/* line 36, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .section1_header__border_btn {
   grid-row: 4/5;
   grid-column: 3/4;
@@ -691,7 +691,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 36, ../Тая/sass/_section1_header.sass */
+  /* line 36, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .section1_header__border_btn {
     width: 344px;
     height: 56px;
@@ -701,7 +701,7 @@ body {
   }
 }
 
-/* line 50, ../Тая/sass/_section1_header.sass */
+/* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top {
   grid-row: 1 / 2;
   grid-column: 2 / 8;
@@ -712,34 +712,34 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 50, ../Тая/sass/_section1_header.sass */
+  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 50, ../Тая/sass/_section1_header.sass */
+  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
 @media (max-width: 1200px) {
-  /* line 50, ../Тая/sass/_section1_header.sass */
+  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     grid-column: 2 / 7;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 50, ../Тая/sass/_section1_header.sass */
+  /* line 50, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top {
     display: flex;
   }
 }
 
-/* line 65, ../Тая/sass/_section1_header.sass */
+/* line 65, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__logo {
   width: 20rem;
   height: 8rem;
@@ -750,13 +750,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 65, ../Тая/sass/_section1_header.sass */
+  /* line 65, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top__logo {
     margin-right: 100px;
   }
 }
 
-/* line 75, ../Тая/sass/_section1_header.sass */
+/* line 75, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__app {
   grid-row: 1/2;
   grid-column: 5/6;
@@ -768,25 +768,25 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 75, ../Тая/sass/_section1_header.sass */
+  /* line 75, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .top__app {
     display: none;
   }
 }
 
-/* line 85, ../Тая/sass/_section1_header.sass */
+/* line 85, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__app:hover {
   color: #C7ED30;
 }
 
-/* line 88, ../Тая/sass/_section1_header.sass */
+/* line 88, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .top__btn {
   grid-row: 1/2;
   grid-column: 6/7;
   z-index: 2;
 }
 
-/* line 93, ../Тая/sass/_section1_header.sass */
+/* line 93, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .title-1-header {
   grid-row: 2/3;
   grid-column: 2/6;
@@ -795,7 +795,7 @@ body {
   z-index: 2;
 }
 
-/* line 99, ../Тая/sass/_section1_header.sass */
+/* line 99, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .header_text {
   grid-row: 3/4;
   grid-column: 2/6;
@@ -804,7 +804,7 @@ body {
   z-index: 2;
 }
 
-/* line 105, ../Тая/sass/_section1_header.sass */
+/* line 105, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .manWoman {
   grid-row: 1/5;
   grid-column: 4/8;
@@ -815,13 +815,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 105, ../Тая/sass/_section1_header.sass */
+  /* line 105, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .manWoman {
     display: none;
   }
 }
 
-/* line 115, ../Тая/sass/_section1_header.sass */
+/* line 115, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .circle_ligth-green {
   width: 59.4rem;
   height: 59.4rem;
@@ -835,13 +835,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 115, ../Тая/sass/_section1_header.sass */
+  /* line 115, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .circle_ligth-green {
     display: none;
   }
 }
 
-/* line 127, ../Тая/sass/_section1_header.sass */
+/* line 127, ../Тая - GIT/move-on/sass/_section1_header.sass */
 .circle_light-salad {
   position: absolute;
   top: 48rem;
@@ -855,7 +855,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 127, ../Тая/sass/_section1_header.sass */
+  /* line 127, ../Тая - GIT/move-on/sass/_section1_header.sass */
   .circle_light-salad {
     bottom: 50px;
     left: 270px;
@@ -863,7 +863,7 @@ body {
   }
 }
 
-/* line 1, ../Тая/sass/_section2_icons.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .section2_icons {
   grid-row: 2 / 3;
   grid-column: 2 / 3;
@@ -872,64 +872,64 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section2_icons.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .section2_icons {
     padding-left: 0rem;
     margin-bottom: 10rem;
   }
 }
 
-/* line 9, ../Тая/sass/_section2_icons.sass */
+/* line 9, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .section2_icons__title-1 {
   margin-bottom: 13.8rem;
 }
 
 @media (max-width: 1300px) {
-  /* line 9, ../Тая/sass/_section2_icons.sass */
+  /* line 9, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .section2_icons__title-1 {
     margin-bottom: 6rem;
   }
 }
 
-/* line 15, ../Тая/sass/_section2_icons.sass */
+/* line 15, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon-collection {
   display: flex;
   justify-content: space-between;
 }
 
 @media (max-width: 1300px) {
-  /* line 15, ../Тая/sass/_section2_icons.sass */
+  /* line 15, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .icon-collection {
     justify-content: center;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 15, ../Тая/sass/_section2_icons.sass */
+  /* line 15, ../Тая - GIT/move-on/sass/_section2_icons.sass */
   .icon-collection {
     flex-direction: column;
   }
 }
 
-/* line 24, ../Тая/sass/_section2_icons.sass */
+/* line 24, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon-box {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-/* line 28, ../Тая/sass/_section2_icons.sass */
+/* line 28, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon-box__text {
   font-size: 2.4rem;
 }
 
-/* line 31, ../Тая/sass/_section2_icons.sass */
+/* line 31, ../Тая - GIT/move-on/sass/_section2_icons.sass */
 .icon {
   width: 28rem;
   height: 24.8rem;
 }
 
-/* line 1, ../Тая/sass/_section3_video.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section3_video.sass */
 .section3_video {
   grid-row: 3 / 4;
   grid-column: 2 / 3;
@@ -939,7 +939,7 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section3_video.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section3_video.sass */
   .section3_video {
     margin-bottom: 10rem;
     padding-left: 0rem;
@@ -947,32 +947,32 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section3_video.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section3_video.sass */
   .section3_video {
     max-width: 370px;
   }
 }
 
-/* line 12, ../Тая/sass/_section3_video.sass */
+/* line 12, ../Тая - GIT/move-on/sass/_section3_video.sass */
 .section3_video__title-1 {
   margin-bottom: 8rem;
 }
 
-/* line 14, ../Тая/sass/_section3_video.sass */
+/* line 14, ../Тая - GIT/move-on/sass/_section3_video.sass */
 .section3_video__video {
   margin: 0 auto;
   border-radius: 10px;
 }
 
 @media (max-width: 950px) {
-  /* line 14, ../Тая/sass/_section3_video.sass */
+  /* line 14, ../Тая - GIT/move-on/sass/_section3_video.sass */
   .section3_video__video {
     max-height: 200px;
     max-width: 350px;
   }
 }
 
-/* line 1, ../Тая/sass/_section4_cards.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .section4_cards {
   grid-row: 4 / 5;
   grid-column: 2 / 3;
@@ -984,7 +984,7 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section4_cards.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .section4_cards {
     margin-bottom: 10rem;
     padding-left: 1rem;
@@ -992,7 +992,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section4_cards.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .section4_cards {
     margin: 0 auto;
     margin-bottom: 10rem;
@@ -1000,7 +1000,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section4_cards.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .section4_cards {
     max-width: 370px;
     display: flex;
@@ -1008,14 +1008,14 @@ body {
   }
 }
 
-/* line 19, ../Тая/sass/_section4_cards.sass */
+/* line 19, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .section4_cards__title-1 {
   margin-bottom: 8rem;
   grid-column: 1 / 3;
   grid-row: 1 /2;
 }
 
-/* line 24, ../Тая/sass/_section4_cards.sass */
+/* line 24, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box {
   background: #FFFFFF;
   box-shadow: 0.1rem 0.1rem 1.2rem rgba(0, 0, 0, 0.25);
@@ -1028,32 +1028,32 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 24, ../Тая/sass/_section4_cards.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box {
     max-width: 472px;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 24, ../Тая/sass/_section4_cards.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box {
     max-width: 350px;
   }
 }
 
-/* line 37, ../Тая/sass/_section4_cards.sass */
+/* line 37, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__icon {
   width: 15.4rem;
   height: 15.4rem;
 }
 
-/* line 40, ../Тая/sass/_section4_cards.sass */
+/* line 40, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__icon_5 {
   width: 27.5rem;
   height: 23.7rem;
 }
 
-/* line 43, ../Тая/sass/_section4_cards.sass */
+/* line 43, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__1 {
   grid-row: 2 /3;
   grid-column: 1 / 2;
@@ -1063,13 +1063,13 @@ body {
   position: relative;
 }
 
-/* line 50, ../Тая/sass/_section4_cards.sass */
+/* line 50, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__1__title {
   grid-row: 1/2;
   grid-column: 1/2;
 }
 
-/* line 53, ../Тая/sass/_section4_cards.sass */
+/* line 53, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__1__text {
   grid-row: 2/3;
   grid-column: 1/2;
@@ -1077,13 +1077,13 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 53, ../Тая/sass/_section4_cards.sass */
+  /* line 53, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__1__text {
     width: 236px;
   }
 }
 
-/* line 59, ../Тая/sass/_section4_cards.sass */
+/* line 59, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__1__icon {
   position: absolute;
   right: 3.1rem;
@@ -1091,13 +1091,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 59, ../Тая/sass/_section4_cards.sass */
+  /* line 59, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__1__icon {
     display: none;
   }
 }
 
-/* line 66, ../Тая/sass/_section4_cards.sass */
+/* line 66, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__2 {
   grid-row: 2 /3;
   grid-column: 2 / 3;
@@ -1107,20 +1107,20 @@ body {
   position: relative;
 }
 
-/* line 73, ../Тая/sass/_section4_cards.sass */
+/* line 73, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__2__title {
   grid-row: 1/2;
   grid-column: 1/2;
 }
 
-/* line 76, ../Тая/sass/_section4_cards.sass */
+/* line 76, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__2__text {
   grid-row: 2/3;
   grid-column: 1/2;
   letter-spacing: 0.01px;
 }
 
-/* line 80, ../Тая/sass/_section4_cards.sass */
+/* line 80, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__2__icon {
   position: absolute;
   right: 3.9rem;
@@ -1128,13 +1128,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 80, ../Тая/sass/_section4_cards.sass */
+  /* line 80, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__2__icon {
     display: none;
   }
 }
 
-/* line 87, ../Тая/sass/_section4_cards.sass */
+/* line 87, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__3 {
   grid-row: 3 /4;
   grid-column: 1 / 2;
@@ -1144,13 +1144,13 @@ body {
   position: relative;
 }
 
-/* line 94, ../Тая/sass/_section4_cards.sass */
+/* line 94, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__3__title {
   grid-row: 1/2;
   grid-column: 1/2;
 }
 
-/* line 97, ../Тая/sass/_section4_cards.sass */
+/* line 97, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__3__text {
   grid-row: 2/3;
   grid-column: 1/2;
@@ -1158,13 +1158,13 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 97, ../Тая/sass/_section4_cards.sass */
+  /* line 97, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__3__text {
     width: 229px;
   }
 }
 
-/* line 103, ../Тая/sass/_section4_cards.sass */
+/* line 103, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__3__icon {
   position: absolute;
   right: 3.1rem;
@@ -1172,13 +1172,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 103, ../Тая/sass/_section4_cards.sass */
+  /* line 103, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__3__icon {
     display: none;
   }
 }
 
-/* line 109, ../Тая/sass/_section4_cards.sass */
+/* line 109, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__4 {
   grid-row: 3 /4;
   grid-column: 2 / 3;
@@ -1188,13 +1188,13 @@ body {
   position: relative;
 }
 
-/* line 116, ../Тая/sass/_section4_cards.sass */
+/* line 116, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__4__title {
   grid-row: 1/2;
   grid-column: 1/2;
 }
 
-/* line 119, ../Тая/sass/_section4_cards.sass */
+/* line 119, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__4__text {
   grid-row: 2/3;
   grid-column: 1/2;
@@ -1202,13 +1202,13 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 119, ../Тая/sass/_section4_cards.sass */
+  /* line 119, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__4__text {
     width: 277px;
   }
 }
 
-/* line 125, ../Тая/sass/_section4_cards.sass */
+/* line 125, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__4__icon {
   position: absolute;
   right: 2.5rem;
@@ -1216,13 +1216,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 125, ../Тая/sass/_section4_cards.sass */
+  /* line 125, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__4__icon {
     display: none;
   }
 }
 
-/* line 131, ../Тая/sass/_section4_cards.sass */
+/* line 131, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5 {
   grid-row: 4/5;
   grid-column: 1 / 3;
@@ -1234,7 +1234,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 131, ../Тая/sass/_section4_cards.sass */
+  /* line 131, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5 {
     width: 960px;
     height: 360px;
@@ -1244,26 +1244,26 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 131, ../Тая/sass/_section4_cards.sass */
+  /* line 131, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5 {
     max-height: 320px;
   }
 }
 
-/* line 146, ../Тая/sass/_section4_cards.sass */
+/* line 146, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__title {
   grid-row: 1/2;
   grid-column: 1/3;
 }
 
 @media (max-width: 1200px) {
-  /* line 146, ../Тая/sass/_section4_cards.sass */
+  /* line 146, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__title {
     margin-bottom: 3rem;
   }
 }
 
-/* line 151, ../Тая/sass/_section4_cards.sass */
+/* line 151, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__icon_5 {
   position: absolute;
   right: 4.4rem;
@@ -1271,7 +1271,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 151, ../Тая/sass/_section4_cards.sass */
+  /* line 151, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__icon_5 {
     right: 71px;
     bottom: 45px;
@@ -1279,57 +1279,57 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 151, ../Тая/sass/_section4_cards.sass */
+  /* line 151, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__icon_5 {
     display: none;
   }
 }
 
-/* line 161, ../Тая/sass/_section4_cards.sass */
+/* line 161, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__text {
   letter-spacing: 0.01px;
 }
 
-/* line 164, ../Тая/sass/_section4_cards.sass */
+/* line 164, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__text1 {
   grid-row: 2/3;
   grid-column: 1/2;
   margin-bottom: 2rem;
 }
 
-/* line 168, ../Тая/sass/_section4_cards.sass */
+/* line 168, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__text2 {
   grid-row: 2/3;
   grid-column: 2/3;
 }
 
 @media (max-width: 1200px) {
-  /* line 168, ../Тая/sass/_section4_cards.sass */
+  /* line 168, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__text2 {
     margin-bottom: 2rem;
   }
 }
 
-/* line 173, ../Тая/sass/_section4_cards.sass */
+/* line 173, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__text3 {
   grid-row: 3/4;
   grid-column: 1/2;
 }
 
 @media (max-width: 1200px) {
-  /* line 173, ../Тая/sass/_section4_cards.sass */
+  /* line 173, ../Тая - GIT/move-on/sass/_section4_cards.sass */
   .card-box__5__text3 {
     margin-bottom: 2rem;
   }
 }
 
-/* line 178, ../Тая/sass/_section4_cards.sass */
+/* line 178, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-box__5__text4 {
   grid-row: 3/4;
   grid-column: 2/3;
 }
 
-/* line 185, ../Тая/sass/_section4_cards.sass */
+/* line 185, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .card-title {
   font-style: normal;
   font-weight: 700;
@@ -1339,7 +1339,7 @@ body {
   margin-bottom: 3rem;
 }
 
-/* line 192, ../Тая/sass/_section4_cards.sass */
+/* line 192, ../Тая - GIT/move-on/sass/_section4_cards.sass */
 .routine {
   background: linear-gradient(5deg, #83f21f 0%, #45c149 1%, #008979 100%);
   -webkit-background-clip: text;
@@ -1348,7 +1348,7 @@ body {
   text-fill-color: transparent;
 }
 
-/* line 1, ../Тая/sass/_section5_consult.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult {
   grid-row: 5 / 6;
   grid-column: 2 / 3;
@@ -1356,13 +1356,13 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section5_consult.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult {
     padding-left: 0rem;
   }
 }
 
-/* line 7, ../Тая/sass/_section5_consult.sass */
+/* line 7, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper {
   width: 121.6rem;
   height: 43.7rem;
@@ -1377,7 +1377,7 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 7, ../Тая/sass/_section5_consult.sass */
+  /* line 7, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper {
     margin-bottom: 10rem;
     padding-left: 8rem;
@@ -1385,7 +1385,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 7, ../Тая/sass/_section5_consult.sass */
+  /* line 7, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper {
     max-width: 966px;
     padding-left: 5rem;
@@ -1395,14 +1395,14 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 7, ../Тая/sass/_section5_consult.sass */
+  /* line 7, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper {
     width: 343px;
     height: 611px;
   }
 }
 
-/* line 29, ../Тая/sass/_section5_consult.sass */
+/* line 29, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper__title {
   position: relative;
   color: #FFFFFF;
@@ -1410,7 +1410,7 @@ body {
   z-index: 2;
 }
 
-/* line 34, ../Тая/sass/_section5_consult.sass */
+/* line 34, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper__text {
   color: #FFFFFF;
   margin-bottom: 5.8rem;
@@ -1419,14 +1419,14 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 34, ../Тая/sass/_section5_consult.sass */
+  /* line 34, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__text {
     width: 500px;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 34, ../Тая/sass/_section5_consult.sass */
+  /* line 34, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__text {
     width: 240px;
     z-index: 2;
@@ -1434,7 +1434,7 @@ body {
   }
 }
 
-/* line 45, ../Тая/sass/_section5_consult.sass */
+/* line 45, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper__btn {
   display: inline-block;
   width: 37.1rem;
@@ -1443,14 +1443,14 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 45, ../Тая/sass/_section5_consult.sass */
+  /* line 45, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__btn {
     width: 291px;
     font-size: 18px;
   }
 }
 
-/* line 53, ../Тая/sass/_section5_consult.sass */
+/* line 53, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper__icon {
   position: absolute;
   right: 2rem;
@@ -1459,7 +1459,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 53, ../Тая/sass/_section5_consult.sass */
+  /* line 53, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__icon {
     width: 208px;
     height: 162px;
@@ -1469,7 +1469,7 @@ body {
   }
 }
 
-/* line 64, ../Тая/sass/_section5_consult.sass */
+/* line 64, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper__vector {
   position: absolute;
   top: 0rem;
@@ -1478,19 +1478,19 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 64, ../Тая/sass/_section5_consult.sass */
+  /* line 64, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__vector {
     display: none;
   }
 }
 
-/* line 71, ../Тая/sass/_section5_consult.sass */
+/* line 71, ../Тая - GIT/move-on/sass/_section5_consult.sass */
 .section5_consult__wrapper__vector_phone {
   display: none;
 }
 
 @media (max-width: 950px) {
-  /* line 71, ../Тая/sass/_section5_consult.sass */
+  /* line 71, ../Тая - GIT/move-on/sass/_section5_consult.sass */
   .section5_consult__wrapper__vector_phone {
     display: block;
     position: absolute;
@@ -1501,7 +1501,7 @@ body {
   }
 }
 
-/* line 1, ../Тая/sass/_section6_app.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app {
   grid-row: 6 / 7;
   grid-column: 2 / 3;
@@ -1510,20 +1510,20 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section6_app.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app {
     margin-bottom: 25rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section6_app.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app {
     margin-bottom: 53rem;
   }
 }
 
-/* line 10, ../Тая/sass/_section6_app.sass */
+/* line 10, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper {
   padding-left: 5rem;
   position: relative;
@@ -1532,7 +1532,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 10, ../Тая/sass/_section6_app.sass */
+  /* line 10, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper {
     max-width: 1060px;
     margin: 0 auto;
@@ -1540,24 +1540,24 @@ body {
   }
 }
 
-/* line 19, ../Тая/sass/_section6_app.sass */
+/* line 19, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__title {
   margin-bottom: 4.8rem;
 }
 
-/* line 21, ../Тая/sass/_section6_app.sass */
+/* line 21, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__text {
   margin-bottom: 4.8rem;
 }
 
-/* line 23, ../Тая/sass/_section6_app.sass */
+/* line 23, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__img {
   position: absolute;
   right: 0rem;
   top: 0rem;
 }
 
-/* line 27, ../Тая/sass/_section6_app.sass */
+/* line 27, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__link {
   display: inline-block;
   margin-bottom: 2rem;
@@ -1577,13 +1577,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 27, ../Тая/sass/_section6_app.sass */
+  /* line 27, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__link {
     display: none;
   }
 }
 
-/* line 45, ../Тая/sass/_section6_app.sass */
+/* line 45, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .section6_app__wrapper__link:hover {
   transform: scale(1.15) translateX(2.5rem);
   background: linear-gradient(90.6deg, #19b63b 0%, #00B19D 99.25%);
@@ -1594,7 +1594,7 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 53, ../Тая/sass/_section6_app.sass */
+  /* line 53, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     position: absolute;
     right: 4rem;
@@ -1602,14 +1602,14 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 53, ../Тая/sass/_section6_app.sass */
+  /* line 53, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     right: -5rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 53, ../Тая/sass/_section6_app.sass */
+  /* line 53, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .section6_app__wrapper__img {
     right: -70px;
     top: 423px;
@@ -1618,7 +1618,7 @@ body {
   }
 }
 
-/* line 66, ../Тая/sass/_section6_app.sass */
+/* line 66, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .app-link {
   background-image: linear-gradient(90.6deg, #096A92 0%, #00B19D 99.25%);
   background-repeat: repeat-x;
@@ -1626,20 +1626,20 @@ body {
   background-size: 100% 2px;
 }
 
-/* line 72, ../Тая/sass/_section6_app.sass */
+/* line 72, ../Тая - GIT/move-on/sass/_section6_app.sass */
 .phone-link {
   display: none;
 }
 
 @media (max-width: 950px) {
-  /* line 72, ../Тая/sass/_section6_app.sass */
+  /* line 72, ../Тая - GIT/move-on/sass/_section6_app.sass */
   .phone-link {
     display: inline-block;
     font-size: 24px;
   }
 }
 
-/* line 1, ../Тая/sass/_section7_priority.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .section7_priority {
   grid-row: 7 / 8;
   grid-column: 1 / 4;
@@ -1655,14 +1655,14 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 1, ../Тая/sass/_section7_priority.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority {
     grid-template-columns: 9% minmax(min-content, 125rem) 15%;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section7_priority.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority {
     grid-template-columns: 4% minmax(min-content, 125rem) 10%;
     margin-bottom: 10rem;
@@ -1670,14 +1670,14 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section7_priority.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority {
     padding-left: 3rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section7_priority.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority {
     height: 960px;
     display: flex;
@@ -1686,14 +1686,14 @@ body {
   }
 }
 
-/* line 25, ../Тая/sass/_section7_priority.sass */
+/* line 25, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .section7_priority__title {
   color: #FFFFFF;
   grid-column: 2/3;
   margin-bottom: 44px;
 }
 
-/* line 29, ../Тая/sass/_section7_priority.sass */
+/* line 29, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .section7_priority__text {
   color: #FFFFFF;
   grid-column: 2/3;
@@ -1701,13 +1701,13 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 29, ../Тая/sass/_section7_priority.sass */
+  /* line 29, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__text {
     word-wrap: break-word;
   }
 }
 
-/* line 35, ../Тая/sass/_section7_priority.sass */
+/* line 35, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .section7_priority__img__woman {
   position: absolute;
   bottom: 0rem;
@@ -1716,7 +1716,7 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 35, ../Тая/sass/_section7_priority.sass */
+  /* line 35, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__woman {
     position: absolute;
     right: 17rem;
@@ -1726,13 +1726,13 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 35, ../Тая/sass/_section7_priority.sass */
+  /* line 35, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__woman {
     right: 0rem;
   }
 }
 
-/* line 47, ../Тая/sass/_section7_priority.sass */
+/* line 47, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .section7_priority__img__vector {
   position: absolute;
   top: 0rem;
@@ -1741,20 +1741,20 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 47, ../Тая/sass/_section7_priority.sass */
+  /* line 47, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__vector {
     height: 52.4rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 47, ../Тая/sass/_section7_priority.sass */
+  /* line 47, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .section7_priority__img__vector {
     display: none;
   }
 }
 
-/* line 57, ../Тая/sass/_section7_priority.sass */
+/* line 57, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .yellow-text {
   background: #C7ED30;
   -webkit-background-clip: text;
@@ -1763,13 +1763,13 @@ body {
   text-fill-color: transparent;
 }
 
-/* line 63, ../Тая/sass/_section7_priority.sass */
+/* line 63, ../Тая - GIT/move-on/sass/_section7_priority.sass */
 .vector-phone {
   display: none;
 }
 
 @media (max-width: 950px) {
-  /* line 63, ../Тая/sass/_section7_priority.sass */
+  /* line 63, ../Тая - GIT/move-on/sass/_section7_priority.sass */
   .vector-phone {
     display: block;
     position: absolute;
@@ -1781,7 +1781,7 @@ body {
   }
 }
 
-/* line 1, ../Тая/sass/_section8_form.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form {
   grid-row: 8 / 9;
   grid-column: 2 / 3;
@@ -1789,7 +1789,7 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section8_form.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form {
     margin-bottom: 10rem;
     margin: 0 auto;
@@ -1798,7 +1798,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section8_form.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form {
     max-width: 1200px;
     padding-left: 5.3rem;
@@ -1807,13 +1807,13 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section8_form.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form {
     padding-left: .5rem;
   }
 }
 
-/* line 15, ../Тая/sass/_section8_form.sass */
+/* line 15, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1821,108 +1821,108 @@ body {
 }
 
 @media (max-width: 1000px) {
-  /* line 15, ../Тая/sass/_section8_form.sass */
+  /* line 15, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper {
     padding-left: 4rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 15, ../Тая/sass/_section8_form.sass */
+  /* line 15, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper {
     display: flex;
     flex-direction: column;
   }
 }
 
-/* line 24, ../Тая/sass/_section8_form.sass */
+/* line 24, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__title {
   grid-row: 1/2;
 }
 
 @media (max-width: 1300px) {
-  /* line 24, ../Тая/sass/_section8_form.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__title {
     margin-right: 5rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 24, ../Тая/sass/_section8_form.sass */
+  /* line 24, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__title {
     margin-bottom: 40px;
   }
 }
 
-/* line 30, ../Тая/sass/_section8_form.sass */
+/* line 30, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__text {
   grid-row: 2/3;
 }
 
 @media (max-width: 950px) {
-  /* line 30, ../Тая/sass/_section8_form.sass */
+  /* line 30, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__text {
     margin-bottom: 37px;
   }
 }
 
-/* line 34, ../Тая/sass/_section8_form.sass */
+/* line 34, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__form {
   grid-row: 1/3;
   grid-column: 2/3;
   display: grid;
 }
 
-/* line 38, ../Тая/sass/_section8_form.sass */
+/* line 38, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__form__btn {
   width: 49.5rem;
 }
 
 @media (max-width: 1500px) {
-  /* line 38, ../Тая/sass/_section8_form.sass */
+  /* line 38, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__form__btn {
     width: 46.5rem;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 38, ../Тая/sass/_section8_form.sass */
+  /* line 38, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__form__btn {
     width: 40.5rem;
   }
 }
 
 @media (max-width: 1000px) {
-  /* line 38, ../Тая/sass/_section8_form.sass */
+  /* line 38, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__form__btn {
     width: 38.5rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 38, ../Тая/sass/_section8_form.sass */
+  /* line 38, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .section8_form__wrapper__form__btn {
     font-size: 16px;
     padding: 1.2rem;
   }
 }
 
-/* line 49, ../Тая/sass/_section8_form.sass */
+/* line 49, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__form__input-text {
   margin-bottom: 2.4rem;
 }
 
-/* line 51, ../Тая/sass/_section8_form.sass */
+/* line 51, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__form__input-sport {
   margin-bottom: 2.4rem;
 }
 
-/* line 53, ../Тая/sass/_section8_form.sass */
+/* line 53, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .section8_form__wrapper__form__input-phone {
   margin-bottom: 4rem;
 }
 
-/* line 55, ../Тая/sass/_section8_form.sass */
+/* line 55, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .label {
   font-style: normal;
   font-weight: 400;
@@ -1932,7 +1932,7 @@ body {
   margin-bottom: 1.3rem;
 }
 
-/* line 62, ../Тая/sass/_section8_form.sass */
+/* line 62, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .input {
   padding: 1.2rem 1.6rem;
   width: 49.5rem;
@@ -1943,32 +1943,32 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 62, ../Тая/sass/_section8_form.sass */
+  /* line 62, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .input {
     width: 46.5rem;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 62, ../Тая/sass/_section8_form.sass */
+  /* line 62, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .input {
     width: 40.5rem;
   }
 }
 
 @media (max-width: 1000px) {
-  /* line 62, ../Тая/sass/_section8_form.sass */
+  /* line 62, ../Тая - GIT/move-on/sass/_section8_form.sass */
   .input {
     width: 38.5rem;
   }
 }
 
-/* line 76, ../Тая/sass/_section8_form.sass */
+/* line 76, ../Тая - GIT/move-on/sass/_section8_form.sass */
 .input::placeholder {
   color: #838282;
 }
 
-/* line 1, ../Тая/sass/_section9_logos.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section9_logos.sass */
 .section9_logos {
   grid-row: 9 / 10;
   grid-column: 2 / 3;
@@ -1980,7 +1980,7 @@ body {
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section9_logos.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section9_logos.sass */
   .section9_logos {
     max-width: 1200px;
     padding-left: 3rem;
@@ -1990,7 +1990,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 1, ../Тая/sass/_section9_logos.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section9_logos.sass */
   .section9_logos {
     display: grid;
     padding-left: 0rem;
@@ -2001,33 +2001,33 @@ body {
   }
 }
 
-/* line 22, ../Тая/sass/_section9_logos.sass */
+/* line 22, ../Тая - GIT/move-on/sass/_section9_logos.sass */
 .section9_logos__title {
   grid-column: 1/6;
   margin-bottom: 9rem;
 }
 
 @media (max-width: 1300px) {
-  /* line 22, ../Тая/sass/_section9_logos.sass */
+  /* line 22, ../Тая - GIT/move-on/sass/_section9_logos.sass */
   .section9_logos__title {
     margin-bottom: 7rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 22, ../Тая/sass/_section9_logos.sass */
+  /* line 22, ../Тая - GIT/move-on/sass/_section9_logos.sass */
   .section9_logos__title {
     grid-column: 1/3;
     font-size: 32px;
   }
 }
 
-/* line 30, ../Тая/sass/_section9_logos.sass */
+/* line 30, ../Тая - GIT/move-on/sass/_section9_logos.sass */
 .logo-phone-size {
   margin-bottom: 40px;
 }
 
-/* line 1, ../Тая/sass/_section10_footer.sass */
+/* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer {
   grid-row: 10 / 11;
   grid-column: 1 / 4;
@@ -2038,41 +2038,41 @@ body {
 }
 
 @media (max-width: 1500px) {
-  /* line 1, ../Тая/sass/_section10_footer.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 9% minmax(min-content, 125rem) 15%;
   }
 }
 
 @media (max-width: 1300px) {
-  /* line 1, ../Тая/sass/_section10_footer.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 4% minmax(min-content, 125rem) 10%;
   }
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section10_footer.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 2% minmax(min-content, 125rem) 5%;
   }
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section10_footer.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     grid-template-columns: 2% minmax(min-content, 125rem) 1px;
   }
 }
 
 @media (max-width: 1200px) {
-  /* line 1, ../Тая/sass/_section10_footer.sass */
+  /* line 1, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer {
     height: 561px;
   }
 }
 
-/* line 18, ../Тая/sass/_section10_footer.sass */
+/* line 18, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__wrapper {
   grid-column: 2/3;
   display: flex;
@@ -2082,14 +2082,14 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 18, ../Тая/sass/_section10_footer.sass */
+  /* line 18, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__wrapper {
     justify-content: space-evenly;
   }
 }
 
 @media (max-width: 1200px) {
-  /* line 18, ../Тая/sass/_section10_footer.sass */
+  /* line 18, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__wrapper {
     max-width: 1200px;
     padding-left: 3rem;
@@ -2098,7 +2098,7 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* line 18, ../Тая/sass/_section10_footer.sass */
+  /* line 18, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__wrapper {
     display: flex;
     flex-direction: column;
@@ -2106,7 +2106,7 @@ body {
   }
 }
 
-/* line 34, ../Тая/sass/_section10_footer.sass */
+/* line 34, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__title {
   color: #FFFFFF;
   font-style: normal;
@@ -2117,20 +2117,20 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 34, ../Тая/sass/_section10_footer.sass */
+  /* line 34, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__title {
     margin-right: 14rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 34, ../Тая/sass/_section10_footer.sass */
+  /* line 34, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__title {
     margin-bottom: 20px;
   }
 }
 
-/* line 45, ../Тая/sass/_section10_footer.sass */
+/* line 45, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__text {
   color: #FFFFFF;
   font-style: normal;
@@ -2140,32 +2140,32 @@ body {
 }
 
 @media (max-width: 1200px) {
-  /* line 45, ../Тая/sass/_section10_footer.sass */
+  /* line 45, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__text {
     margin-right: 8rem;
   }
 }
 
 @media (max-width: 950px) {
-  /* line 45, ../Тая/sass/_section10_footer.sass */
+  /* line 45, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__text {
     margin-bottom: 10px;
   }
 }
 
-/* line 55, ../Тая/sass/_section10_footer.sass */
+/* line 55, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__icon {
   margin-right: 1.6rem;
 }
 
 @media (max-width: 950px) {
-  /* line 55, ../Тая/sass/_section10_footer.sass */
+  /* line 55, ../Тая - GIT/move-on/sass/_section10_footer.sass */
   .section10_footer__icon {
     margin-bottom: 10px;
   }
 }
 
-/* line 59, ../Тая/sass/_section10_footer.sass */
+/* line 59, ../Тая - GIT/move-on/sass/_section10_footer.sass */
 .section10_footer__app {
   margin-right: 2.1rem;
 }
