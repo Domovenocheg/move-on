@@ -2146,6 +2146,7 @@ body {
   grid-column: 2/3;
   display: flex;
   justify-content: space-between;
+  padding-top: 6.7rem;
   padding-left: 1.4rem;
 }
 
