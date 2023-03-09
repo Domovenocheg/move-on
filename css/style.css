@@ -2242,4 +2242,30 @@ body {
   margin-right: 2.1rem;
 }
 
+/* line 1, ../Тая - GIT/move-on/sass/_modal_form.sass */
+.modal_form {
+  position: absolute;
+  width: 655px;
+  height: 798px;
+  left: 632px;
+  top: 39px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  padding: 80px 100px 100px 100px;
+}
+
+/* line 13, ../Тая - GIT/move-on/sass/_modal_form.sass */
+.modal_text {
+  font-size: 32px;
+  font-weight: 800;
+  letter-spacing: -0.408px;
+}
+
+/* line 18, ../Тая - GIT/move-on/sass/_modal_form.sass */
+.hidden {
+  display: none;
+}
+
 /*# sourceMappingURL=style.css.map */
