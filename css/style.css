@@ -15,7 +15,7 @@ html {
 }
 
 /* Sections
-   ======================================  ================================ */
+   ========================================================================== */
 /**
  * Remove the margin in all browsers.
  */
@@ -2035,6 +2035,11 @@ body {
   .input::placeholder {
     font-size: 12px;
   }
+}
+
+/* line 87, ../Тая - GIT/move-on/sass/_section8_form.sass */
+._error {
+  box-shadow: 0 0 15px red;
 }
 
 /* line 1, ../Тая - GIT/move-on/sass/_section9_logos.sass */
